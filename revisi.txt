@@ -1,0 +1,2 @@
+Replacing Gates
+	You can also directly replace the gate
